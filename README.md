@@ -1,4 +1,5 @@
 # js_class
+```javascript
 console.log(8 * null)
 // → 0
 console.log("5" - 1)
